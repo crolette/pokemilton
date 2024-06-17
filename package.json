@@ -1,0 +1,17 @@
+{
+  "name": "10-01-javascript-recap-pokemilton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Game.js",
+  "scripts": {
+    "start": "./Game.js"
+  },
+  "keywords": [],
+  "author": "Jonathan De Dijcker - Crolweb",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "moment": "^2.29.3",
+    "progress": "^2.0.3"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "PokemiltonMaster": {
+    "_POKEBALLPRICE": 10,
+    "_HEALINGPRICE": 15,
+    "_REVIVEPRICE": 5,
+    "name": "test",
+    "pokemiltonCollection": [
+      {
+        "name": "Uellien",
+        "level": 1,
+        "experienceMeter": 2,
+        "attackRange": 8,
+        "defenseRange": 3,
+        "healthPool": 0,
+        "healthMax": 10,
+        "catchPhrase": "Pokemilton, go!"
+      }
+    ],
+    "money": 58,
+    "healingItems": 5,
+    "reviveItems": 3,
+    "POKEBALLS": 10
+  },
+  "name": "test",
+  "day": 2,
+  "logs": [
+    "Day 1: test begins his adventure in the test \n",
+    "Day 1: test receives Uellien",
+    "One day passes. No Pokemilton in the neighbourhood... maybe tomorrow. Day 2 in test town.",
+    "________________________________________________",
+    "\u001b[31m\u001b[39m\n\u001b[31mA wild Quendan appears!\u001b[39m\n\u001b[31mLvl:2 - ❤️:56\u001b[39m\n\u001b[31mPOKEMILTON, GO!\u001b[39m",
+    "Round 1",
+    "BATTLE ROUND 1",
+    "Uellien attacked Quendan and dealt 2 damage!",
+    "Quendan attacked Uellien and dealt 8 damage!",
+    "❤️ Uellien 2/10 vs. ❤️ Quendan 54/56",
+    "Round 2",
+    "BATTLE ROUND 2",
+    "Uellien attacked Quendan and dealt 2 damage!",
+    "Quendan attacked Uellien and dealt 17 damage!",
+    "Your Pokemilton Uellien is dead! ☠️",
+    "END OF THE BATTLE - STATS",
+    "❤️ Uellien 0/10 vs. ❤️ Quendan 52/56",
+    "Uellien gained 2 experience points! (🦾: 0 => 2)"
+  ],
+  "saved_on": "2024-06-17T10:31:29.828Z"
+}
